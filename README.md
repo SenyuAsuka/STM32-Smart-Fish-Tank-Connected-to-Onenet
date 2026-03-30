@@ -1,6 +1,8 @@
 # STM32-Smart-Fish-Tank-Connected-to-Onenet
 Smart Fish Tank Based on STM32
 
+基于STM32F103C8T6的智能鱼缸
+
 修改esp8266.c下的wifi账号及密码
 
 #define ESP8266_WIFI_INFO		"AT+CWJAP=\"12345678\",\"12345678\"\r\n"
