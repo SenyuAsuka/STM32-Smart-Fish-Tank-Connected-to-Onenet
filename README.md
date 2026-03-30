@@ -8,5 +8,7 @@ Smart Fish Tank Based on STM32
 默认WIFI账户是12346578 密码也是12345678
 
 修改onenet.c下的PROID、ACCESS_KEY_key和DEVICE_NAME
+
+DHT11接的PB11 DS18B20接PB1 TDS接PA0 SG90接PB0
 <img width="1375" height="788" alt="image" src="https://github.com/user-attachments/assets/d6d60765-7f5e-4e11-98db-22686c7e8365" />
 <img width="2014" height="1190" alt="image" src="https://github.com/user-attachments/assets/b7f2140d-f37d-4519-9499-bbfb1daa78fa" />
