@@ -11,7 +11,7 @@ Smart Fish Tank Based on STM32
 
 修改onenet.c下的PROID、ACCESS_KEY_key和DEVICE_NAME
 
-参考视频https://www.bilibili.com/video/BV1jS421A7Bk/?spm_id_from=333.337.search-card.all.click&vd_source=63d0cb9e8c7ff2b9228c56010532a7fc
+连接OneNet参考视频https://www.bilibili.com/video/BV1jS421A7Bk/?spm_id_from=333.337.search-card.all.click&vd_source=63d0cb9e8c7ff2b9228c56010532a7fc
 
 DHT11接的PB11 DS18B20接PB1 TDS接PA0 SG90接PB0 DH接PA1
 <img width="1375" height="788" alt="image" src="https://github.com/user-attachments/assets/d6d60765-7f5e-4e11-98db-22686c7e8365" />
