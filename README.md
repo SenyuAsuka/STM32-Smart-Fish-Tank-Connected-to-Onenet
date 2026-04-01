@@ -15,5 +15,6 @@ Smart Fish Tank Based on STM32
 
 <img width="1943" height="1107" alt="image" src="https://github.com/user-attachments/assets/ec7e8f49-c197-4334-8d90-e1c5e8dc09dd" />
 
-<img width="1934" height="1107" alt="image" src="https://github.com/user-attachments/assets/b161dac8-55ed-47d2-b7b0-1d4dcd81e408" />
+<img width="1214" height="695" alt="image" src="https://github.com/user-attachments/assets/0f590307-1ae5-4186-98ab-7d3a7edfdff9" />
+
 
