@@ -1,7 +1,7 @@
 # STM32-Smart-Fish-Tank-Connected-to-Onenet
 Smart Fish Tank Based on STM32
 
-基于STM32F103C8T6的智能鱼缸
+实现的基本功能有PH检测，TDS检测，SG90舵机，DS18B20的温度检测，DHT11的湿度检测。同时上传数据到ONENET平台
 
 修改esp8266.c下的wifi账号及密码
 
