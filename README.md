@@ -13,6 +13,8 @@ Smart Fish Tank Based on STM32
 
 连接OneNet参考视频https://www.bilibili.com/video/BV1jS421A7Bk/?spm_id_from=333.337.search-card.all.click&vd_source=63d0cb9e8c7ff2b9228c56010532a7fc
 
-<img width="1340" height="768" alt="image" src="https://github.com/user-attachments/assets/f81d8291-249f-4ca2-a7e1-9547eb922b6f" />
+<img width="1934" height="1107" alt="image" src="https://github.com/user-attachments/assets/563d009f-2bb2-426f-8a2d-6d8042f93d89" />
 
-<img width="1340" height="768" alt="image" src="https://github.com/user-attachments/assets/0d532fda-85fe-4603-9879-8560385c5783" />
+
+<img width="1934" height="1107" alt="image" src="https://github.com/user-attachments/assets/b161dac8-55ed-47d2-b7b0-1d4dcd81e408" />
+
